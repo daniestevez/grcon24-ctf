@@ -1,0 +1,5 @@
+Flag 1: FM signal. 24685424
+Flag 2: Strong SF9 FM. 93734338
+Flag 3: Weak SF9 FM. 73537799
+Flag 4: Strong SF11 AM. 35566377
+Flag 5: Weak SF7 SSB. 9459989
